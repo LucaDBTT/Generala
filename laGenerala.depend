@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1657925505 source:c:\users\usuario\onedrive\desktop\lagenerala\proyectogenerala\lagenerala\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<conio.h>
+	"rlutil.h"
+	"funciones.h"
+	"funcionesGenerales.h"
+
+1657925489 c:\users\usuario\onedrive\desktop\lagenerala\proyectogenerala\lagenerala\funciones.h
+
+1657925489 c:\users\usuario\onedrive\desktop\lagenerala\proyectogenerala\lagenerala\funcionesgenerales.h
+
+1655943281 source:c:\users\nazuti\desktop\generala\lagenerala\proyectogenerala\lagenerala\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<conio.h>
+	"funciones.h"
+	"funcionesGenerales.h"
+
+1655943281 c:\users\nazuti\desktop\generala\lagenerala\proyectogenerala\lagenerala\funciones.h
+
+1655874213 c:\users\nazuti\desktop\generala\lagenerala\proyectogenerala\lagenerala\funcionesgenerales.h
+
+1657858359 c:\users\usuario\onedrive\desktop\lagenerala\proyectogenerala\lagenerala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657925884 source:c:\users\gonzalo\desktop\new folder\desktop\lagenerala\proyectogenerala\lagenerala\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<conio.h>
+	"rlutil.h"
+	"funciones.h"
+	"funcionesGenerales.h"
+
+1657858359 c:\users\gonzalo\desktop\new folder\desktop\lagenerala\proyectogenerala\lagenerala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1658018067 c:\users\gonzalo\desktop\new folder\desktop\lagenerala\proyectogenerala\lagenerala\funciones.h
+
+1658017877 c:\users\gonzalo\desktop\new folder\desktop\lagenerala\proyectogenerala\lagenerala\funcionesgenerales.h
+
+1668054504 source:c:\users\gonzalo\desktop\la generala 2\lagenerala1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<conio.h>
+	"rlutil.h"
+	<cstring>
+	<windows.h>
+	<mmsystem.h>
+	"funciones.h"
+	"funcionesGenerales.h"
+
+1665494563 c:\users\gonzalo\desktop\la generala 2\lagenerala1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1668054474 c:\users\gonzalo\desktop\la generala 2\lagenerala1\funciones.h
+
+1668054474 c:\users\gonzalo\desktop\la generala 2\lagenerala1\funcionesgenerales.h
+
